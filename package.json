@@ -1,0 +1,12 @@
+{
+  "name": "agyiri-sakyi-portfolio",
+  "version": "2.0.0",
+  "description": "Professional portfolio of Agyiri Sakyi — Full-Stack Developer & IT Consultant",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Static site — no build needed'"
+  },
+  "keywords": ["portfolio", "developer", "react", "django", "data-analytics"]
+}
